@@ -6,7 +6,7 @@ WORKDIR /app
 
 #copy the JAR file from Maven build output 
 #adjust the jar name to match your actual artifact 
-COPY maven-lab9/target/*.jar app.jar 
+COPY target/*.jar app.jar 
 
 #Run the jar
 ENTRYPOINT ["java", "-jar", "app.jar"]
