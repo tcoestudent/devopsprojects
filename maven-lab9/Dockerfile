@@ -1,5 +1,5 @@
 # use lightweight JDK base image
-FROM openjdk:27-ea-nanoserver-ltsc2025 
+FROM openjdk:17.0.1-jdk-slim  
 
 # set working directory inside container
 WORKDIR /app 
