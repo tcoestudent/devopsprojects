@@ -9,4 +9,5 @@ WORKDIR /app
 COPY /var/lib/jenkins/workspace/Maven-Build/maven-lab9/target/*.jar app.jar 
 
 #Run the jar
-ENTRYPOINT["java","-jar","app.jar"]
+ENTRYPOINT ["java", "-jar", "app.jar"]
+
