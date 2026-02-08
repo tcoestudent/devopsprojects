@@ -2,7 +2,7 @@ package com.example;
 
 public class HelloMaven {
     public static void main(String[] args) {
-        System.out.println("Hello, Maven! SCM polling worked again");
+        System.out.println("Hello, Maven! SCM sakshi polling worked again");
     }
 }
 
