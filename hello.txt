@@ -1,3 +1,6 @@
 Hello Git!
 This is my first Git lab.
 Main branch line
+This is a new feature
+Feature branch line
+
