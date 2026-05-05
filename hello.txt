@@ -4,4 +4,3 @@ Main branch line
 This is a new feature
 Feature branch line
 
-Mistake line
