@@ -2,3 +2,7 @@ Hello Git!
 This is my first Git lab.
 This is a new feature
 Feature branch line
+adding one line to be pushed to remote
+making changes remote for pull test
+add one line to cloned url
+adding one line to test stashing
