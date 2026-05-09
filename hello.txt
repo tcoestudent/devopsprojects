@@ -1,4 +1,4 @@
-Hello Git!
+Hello from ansibleimage admin!
 This is my first Git lab.
 Main branch line
 This is a new feature
